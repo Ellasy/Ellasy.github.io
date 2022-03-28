@@ -1,0 +1,165 @@
+<html>
+	<head>
+		<meta charset='utf-08' name='viewport' content='width=device-width, initial-scale=1.0'>
+		<title></title>
+		<link rel='stylesheet' href='css/style.css'>
+	</head>
+    <body>
+        <nav>
+            <div class="container">
+                <div class="navigation">
+                    <p class="navigation__logo">
+                        Cootels
+                    </p> 
+                    <div class="navigation__links">
+                        <a class="navigation__link" href="#">Rooms</a>
+                        <a class="navigation__link" href="#">Reservations</a>
+                        <a class="navigation__link" href="#">Contacts</a>
+                    </div>
+                    <button class="navigation__button">
+                        Get Started
+                    </button>
+                </div>
+            </div>
+        </nav>
+        <section class="section1">
+            <div class="container">
+                <div class="content">
+                    <div class="content__left">
+                        <div class="paragraph paragraph_size1">
+                            <h1 class="paragraph__title paragraph__title_bigsize">Nature, Warmth, and<br> Beauty in One Space</h1>
+                            <p class="paragraph__text">One place to release all the stress, bring back happines,<br> and get back to nature. We provide the best room and<br> nature for you. Come visit us anytime you want.</p>
+                            <button class="paragraph__btn">Reservation</button>
+                        </div>
+                    </div>                  
+                    <div class="content__right content__right_picture1">
+                        <img src="images/img1.png" alt="house">
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="section2">
+            <div class="container">
+                <div class="content">
+                    <div class="content__left content__left_picture1">
+                        <img src="images/img2.png" alt="house on tree">
+                    </div>
+                    <div class="content__right">
+                        <div class="paragraph paragraph_size2">
+                            <h2 class="paragraph__title">Cozy and Down to Earth Cootage<br> Hotel in Norway.</h2>
+                            <p class="paragraph__text">Our Cootage Hotel is an intimate hideway concieved for dicerning<br> travelers. It faces directly the unique and spectacular panorama of<br> the Hallerbos Jungle.<br>Cootels extends along a private, quiet, and beautiful nature. Stay<br> away from crowd and enjoy the cozy and beauty with us.</p>
+                            <button class="paragraph__btn">Learn More</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="section3">
+            <div class="container">
+                <div class="content">
+                    <div class="content__left">
+                        <div class="paragraph paragraph_size3">
+                            <h2 class="paragraph__title paragraph__title_bigsize">Cabin Activities</h2>
+                            <p class="paragraph__text">Don’t worry to get bored easily in our cabin. We have so many cabin<br> activities for you to do it alone or with group. Maybe this is the best<br> chance for you to make new friends or even a lover.</p>
+                        </div>
+                    </div>                  
+                    <div class="content__right content__right_picture2">
+                        <img src="images/img3.png" alt="people are drinking">
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="section4">
+            <div class="container">
+                <div class="content">
+                    <div class="content__left content__left_picture2">
+                        <img src="images/img4.png" alt="food">
+                    </div>
+                    <div class="content__right">
+                        <div class="paragraph paragraph_size4">
+                            <h2 class="paragraph__title">100% Organic Food</h2>
+                            <p class="paragraph__text">We served 100% organic, low process and delicious food. We allow<br> our guest to have breakfast or dinner request.What ever made your<br> taste buds happy.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="section5">
+            <div class="container">
+                <div class="content1">
+                <div class="paragraph paragraph_textcenter">
+                        <h2 class="paragraph__title">Many Rooms to Choose</h2>
+                        <p class="paragraph__text">There is a room for every needs. We have room for individuals until<br> family size, we also have a cabin for more private experience</p>
+                        <button class="paragraph__btn">Explore more</button>
+                </div>
+                <div class="content1__bottom">
+                    <div class="images">
+                        <div class="images__image">
+                            <img src="images/img5.png" alt="Single Room">
+                        </div>
+                        <div class="images__image">
+                            <img src="images/img6.png" alt="Double Room">
+                        </div>
+                        <div class="images__image">
+                            <img src="images/img7.png" alt="Co0tage">
+                        </div>
+                    </div>
+                    <div class="paragraphs">
+                        <div class="paragraph paragraph paragraph_size5">
+                            <h2 class="paragraph__title paragraph__title_minsize">Single Room</h2>
+                            <p class="paragraph__text">Best for a brave lone wolf who need comfort<br> and quiet quality time, but you still have a<br> chance to meet others.</p>
+                            <button class="paragraph__btn paragraph__btn_opacity">Learn more →</button>
+                        </div>
+                        <div class="paragraph paragraph paragraph_size5">
+                            <h2 class="paragraph__title paragraph__title_minsize">Double Room</h2>
+                            <p class="paragraph__text">Best for couple, seek happiness in intimacy<br> without worry of being disturbed. Feel the<br> whole world just for you two</p>
+                            <button class="paragraph__btn paragraph__btn_opacity">Learn more →</button>
+                        </div>
+                        <div class="paragraph paragraph paragraph_size5">
+                            <h2 class="paragraph__title paragraph__title_minsize">Cootage</h2>
+                            <p class="paragraph__text">Best for family or group. One cootage can fit<br> up to 5 people. Made stronger bond with<br> your family or friends</p>
+                            <button class="paragraph__btn paragraph__btn_opacity">Learn more →</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <script src="js/script.js"></script>
+    </body>
+    <footer> 
+        <div class="container">
+            <div class="content2">
+                <div class="paragraph paragraph_size6">
+                    <h2 class="paragraph__title paragraph__title_color-and-size">Cootels</h2>
+                    <p class="paragraph__text paragraph__text_color-and-line-height">Your Best Private<br> Hideway From Crowd.<br> Back to Nature.</p>
+                    <div class="paragraph__icons">
+                        <div class="icons__icon"><a><img src="images/twitter.png" alt="twitter"></a></div>
+                        <div class="icons__icon"><a><img src="images/instagram-logo.png" alt="instagram"></a></div>
+                        <div class="icons__icon"><a><img src="images/facebook.png" alt="facebook"></a></div>
+                    </div>
+                    </div>
+                <div class="content2__right">
+                    <div class="right__column right__column_height1">
+                        <h2 class="column__title">Rooms</h2>
+                        <a href="#" class="column__link">Single Room</a>
+                        <a href="#" class="column__link">Double Room</a>
+                        <a href="#" class="column__link">Cabin</a>
+                        <a href="#" class="column__link">Custom Room</a>
+                    </div>
+                    <div class="right__column right__column_height2">
+                        <h2 class="column__title">Reservation</h2>
+                        <a href="#" class="column__link">See the Steps</a>
+                        <a href="#" class="column__link">Best Time</a>
+                    </div>
+                    <div class="right__column right__column_height3">
+                        <h2 class="column__title">Contact</h2>
+                        <a href="#" class="column__link">Our Number</a>
+                        <a href="#" class="column__link">Our Email</a>
+                        <a href="#" class="column__link">Our Location</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+</html>
+
